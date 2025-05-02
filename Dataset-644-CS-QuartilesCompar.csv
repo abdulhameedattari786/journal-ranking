@@ -1,0 +1,645 @@
+Issn,Title,CiteScore,SNIP,SJR,H index,IF,ES,SJR Best Quartile,HJRS Category,Kmeanslabels,PCA2_labels,PCA3_labels,tSNE2_labels
+1628828,ieee transactions on pattern analysis and machine intelligence,36.6,7.338,8.269,377,24.314,0.06637,Q1,W,1,1,0,0
+"15540669, 15540677",foundations and trends in information retrieval,30.5,6.543,3.343,35,13.286,0.00057,Q1,W,1,1,0,0
+2684012,international journal of information management,28.8,5.416,4.584,132,18.958,0.01601,Q1,W,1,1,0,0
+1089778X,ieee transactions on evolutionary computation,25.7,5.617,6.078,186,16.497,0.01134,Q1,W,1,1,0,0
+1636804,ieee communications magazine,24.6,3.542,5.147,260,9.03,0.03189,Q1,W,1,1,0,0
+"18731457, 15710645",physics of life reviews,23.3,3.464,1.992,67,9.833,0.0029,Q1,W,1,1,3,0
+1556603X,ieee computational intelligence magazine,22.1,5.751,3.594,62,9.809,0.00313,Q1,W,1,1,0,0
+10636706,ieee transactions on fuzzy systems,21.9,3.143,4.08,202,12.253,0.02189,Q1,W,1,1,0,0
+7338716,ieee journal on selected areas in communications,21.2,3.559,6.32,242,13.081,0.03321,Q1,W,1,1,0,0
+"2162237X, 21622388",ieee transactions on neural networks and learning systems,20.8,3.306,4.222,221,14.255,0.05097,Q1,W,1,1,0,0
+"08908044, 1558156X",ieee network,18.7,3.149,5.053,135,10.294,0.01479,Q1,W,1,1,0,0
+"14678667, 10939687",computer-aided civil and infrastructure engineering,17.2,3.187,3.134,89,10.066,0.00619,Q1,W,1,1,3,0
+23274662,ieee internet of things journal,17.1,2.952,3.848,119,10.238,0.05014,Q1,W,1,1,3,0
+"09205691, 15731405",international journal of computer vision,16.8,4.168,6.838,201,13.369,0.01735,Q1,W,1,1,0,0
+10967516,internet and higher education,16.8,5.3,3.906,99,8.591,0.00366,Q1,W,1,1,3,0
+10577149,ieee transactions on image processing,16.4,3.131,4.03,296,11.041,0.07687,Q1,W,1,1,0,0
+25225839,nature machine intelligence,16.3,6.962,4.602,26,25.898,0.01094,Q1,W,1,1,0,0
+21695172,soft robotics,16.3,2.795,3.027,50,7.784,0.00631,Q1,W,0,2,3,0
+"17452767, 17452759",virtual and physical prototyping,16.2,1.993,1.858,51,10.962,0.00258,Q1,W,0,2,3,0
+"13501917, 13652575",information systems journal,16,3.495,2.823,94,7.767,0.00313,Q1,W,1,1,3,0
+"10958592, 10848045",journal of network and computer applications,15.7,2.512,2.193,115,7.574,0.01178,Q1,W,0,2,3,0
+"13618415, 13618423",medical image analysis,15.6,4.042,4.172,143,13.828,0.01971,Q1,W,1,1,0,0
+313203,pattern recognition,15.5,3.089,3.113,218,8.518,0.03053,Q1,W,1,1,3,0
+"02692821, 15737462",artificial intelligence review,14.9,3.569,2.18,86,9.588,0.00681,Q1,W,1,1,3,0
+15566013,ieee transactions on information forensics and security,14.9,3.244,3.299,140,7.231,0.01916,Q1,W,1,1,3,0
+"02783649, 17413176",international journal of robotics research,14.8,3.181,3.403,170,6.887,0.00957,Q1,W,1,1,3,0
+21961115,journal of big data,14.4,4.661,2.592,45,10.835,0.00615,Q1,W,1,1,3,0
+"15577368, 07300301",acm transactions on graphics,14.2,2.676,7.148,221,7.403,0.03064,Q1,W,1,1,0,0
+"23528648, 24685925",digital communications and networks,14.1,2.581,1.813,33,6.348,0.00175,Q1,W,0,2,1,0
+"17411106, 17411114",international journal of web and grid services,13.9,2.642,1.617,26,0.825,0.00057,Q1,W,0,2,1,2
+7365853,telematics and informatics,13.9,3.067,1.69,78,9.14,0.00912,Q1,W,0,2,3,0
+19391374,ieee transactions on services computing,13.6,3.485,2.714,77,11.019,0.00565,Q1,W,1,1,3,0
+"1098111X, 08848173",international journal of intelligent systems,13.6,1.912,1.693,92,8.993,0.00518,Q1,W,0,2,3,0
+"13674811, 13674803",bioinformatics,13.4,2.272,3.4,415,6.931,0.1379,Q1,W,3,3,0,0
+"15728145, 09565515",journal of intelligent manufacturing,13.3,2.69,1.929,85,7.136,0.00689,Q1,W,0,2,3,0
+10414347,ieee transactions on knowledge and data engineering,13.1,3.619,2.431,183,9.235,0.01714,Q1,W,1,1,3,0
+"08936080, 18792782",neural networks,13.1,2.808,2.781,154,9.657,0.02002,Q1,W,1,1,3,0
+10836101,journal of computer-mediated communication,13,4.259,2.369,126,7.432,0.00399,Q1,W,1,1,3,0
+15361233,ieee transactions on mobile computing,12.6,2.059,2.426,143,6.075,0.01134,Q1,W,0,2,3,0
+2471285X,ieee transactions on emerging topics in computational intelligence,12.5,2.29,2.013,25,4.851,0.00203,Q1,W,0,2,1,2
+9574174,expert systems with applications,12.2,2.985,2.07,225,8.665,0.03931,Q1,W,1,1,3,0
+20566387,npj quantum information,12.2,2.263,3.385,47,10.758,0.01316,Q1,W,0,2,3,0
+200255,information sciences,12.1,2.404,2.29,194,8.233,0.04621,Q1,W,1,1,3,0
+9507051,knowledge-based systems,12,2.611,2.192,135,8.139,0.02964,Q1,W,0,2,3,0
+19430620,journal of optical communications and networking,11.8,1.801,1.376,67,4.508,0.00382,Q1,W,0,2,1,2
+"21576912, 21576904",acm transactions on intelligent systems and technology,11.7,2.766,2.766,65,10.489,0.00537,Q1,W,0,2,3,0
+10772626,ieee transactions on visualization and computer graphics,11.4,2.431,1.753,148,5.226,0.01712,Q1,W,0,2,3,0
+21687161,ieee transactions on cloud computing,11.3,1.889,1.513,54,5.697,0.00383,Q1,W,0,2,1,2
+9521976,engineering applications of artificial intelligence,11,2.301,1.734,114,7.802,0.01181,Q1,W,0,2,3,0
+23798858,ieee transactions on intelligent vehicles,10.9,2.131,1.678,31,5.009,0.00312,Q1,W,0,2,1,2
+17582946,journal of cheminformatics,10.7,2.239,1.589,61,8.489,0.00668,Q1,W,0,2,1,0
+"09333657, 18732860",artificial intelligence in medicine,10.4,2.24,1.497,93,7.011,0.00494,Q1,W,0,2,1,0
+"15729419, 13873326",information systems frontiers,10.3,2.308,1.434,73,5.261,0.00359,Q1,W,0,2,1,2
+9252312,neurocomputing,10.3,1.85,1.66,157,5.779,0.06577,Q1,W,0,2,1,0
+23773782,ieee transactions on sustainable computing,10.2,1.783,1.35,25,4.908,0.00118,Q1,W,0,2,1,2
+14740346,advanced engineering informatics,10.1,2.202,1.601,90,7.862,0.00508,Q1,W,0,2,1,0
+23780967,apl photonics,10,1.784,1.971,38,6.382,0.00789,Q1,W,0,2,1,2
+"24686557, 24682322",caai transactions on intelligence technology,10,2.297,1.548,21,7.985,0.00107,Q1,W,0,2,1,2
+15674223,electronic commerce research and applications,10,1.991,1.365,82,5.622,0.00342,Q1,W,0,2,1,2
+15708705,ad hoc networks,9.5,1.557,1.397,98,4.816,0.00489,Q1,W,0,2,1,2
+1290657,international journal of neural systems,9.5,1.563,1.368,67,6.325,0.00239,Q1,W,0,2,1,2
+13890417,cognitive systems research,9.3,1.76,1.095,56,4.541,0.0024,Q1,W,0,2,1,2
+13891286,computer networks,9.3,1.803,1.592,139,5.493,0.01108,Q1,W,0,2,1,2
+23327731,ieee transactions on cognitive communications and networking,9.3,1.899,2.62,33,6.359,0.0049,Q1,W,0,2,1,2
+"07437315, 10960848",journal of parallel and distributed computing,9.2,1.633,1.289,92,4.542,0.00515,Q1,W,0,2,1,2
+"18790771, 08956111",computerized medical imaging and graphics,9.1,2.033,1.485,82,7.422,0.00342,Q1,W,0,2,1,0
+"15265536, 10477047",information systems research,9.1,2.441,3.816,168,5.49,0.00729,Q1,W,0,2,3,0
+"15737527, 09295593",autonomous robots,9,1.77,1.564,117,3.255,0.00478,Q1,W,0,2,1,2
+2307387X,transactions of the association for computational linguistics,9,7.804,2.372,14,9.194,0.00426,Q1,W,1,1,3,0
+21686750,ieee transactions on emerging topics in computing,8.9,1.611,1.308,48,6.595,0.00264,Q1,W,0,2,1,2
+12292370,journal of communications and networks,8.8,0.959,1.425,48,3.908,0.00152,Q1,W,2,2,1,2
+43702,artificial intelligence,8.7,3.13,1.673,155,14.05,0.01279,Q1,W,1,1,3,0
+24059595,ict express,8.7,2.246,1.398,27,4.754,0.00148,Q1,W,0,2,1,2
+"22885048, 22884300",journal of computational design and engineering,8.7,2.353,1.034,29,6.167,0.00167,Q1,W,0,2,1,2
+"13845810, 1573756X",data mining and knowledge discovery,8.6,2.53,1.615,104,5.406,0.00367,Q1,W,0,2,1,2
+"19379234, 19328184",ieee systems journal,8.6,1.442,1.359,88,4.802,0.01455,Q1,W,0,2,1,2
+1678655,pattern recognition letters,8.6,1.786,1.479,163,4.757,0.01284,Q1,W,0,2,1,2
+"15622479, 21993211",international journal of fuzzy systems,8.5,1.25,0.908,47,4.085,0.00404,Q2,W,2,0,1,2
+"09246495, 15728641",minds and machines,8.4,3.251,1.555,44,5.339,0.00198,Q1,W,0,2,1,2
+"15732908, 15684539",fuzzy optimization and decision making,8.3,2.022,1.084,56,5.274,0.00092,Q1,W,0,2,1,2
+10769757,journal of artificial intelligence research,8.3,2.921,1.485,123,3.635,0.00457,Q1,W,0,2,1,2
+24721751,network neuroscience,8.2,1.139,1.713,22,4.98,0.00323,Q1,W,0,2,1,2
+23773766,ieee robotics and automation letters,8,2.041,2.206,63,4.321,0.02401,Q1,W,0,2,1,2
+23255870,ieee transactions on control of network systems,7.9,1.584,2.588,49,4.347,0.01112,Q1,W,0,2,1,2
+24732400,ieee transactions on green communications and networking,7.9,1.197,1.872,30,3.525,0.00307,Q1,W,2,2,1,2
+"10692509, 18758835",integrated computer-aided engineering,7.9,1.493,1.227,45,6.137,0.00087,Q1,W,0,2,1,2
+15741192,pervasive and mobile computing,7.9,1.223,1.062,69,3.848,0.00237,Q1,W,2,2,1,2
+"0924669X, 15737497",applied intelligence,7.8,1.729,1.211,72,5.019,0.00852,Q2,W,0,2,1,2
+1403664,computer communications,7.8,1.536,1.301,109,5.047,0.00868,Q1,W,0,2,1,2
+"15700844, 22104968",semantic web,7.8,2.929,1.242,45,3.105,0.00208,Q1,W,0,2,1,2
+13594338,virtual reality,7.8,2.633,1.009,51,4.697,0.00191,Q1,W,0,2,1,2
+2373776X,ieee transactions on signal and information processing over networks,7.7,1.561,1.875,31,3.301,0.00336,Q1,W,0,2,1,2
+"1868808X, 18688071",international journal of machine learning and cybernetics,7.7,1.32,1.003,49,4.377,0.0051,Q2,W,2,0,1,2
+"0888613X, 18734731",international journal of approximate reasoning,7.6,1.715,1.066,100,4.452,0.00479,Q1,W,0,2,1,2
+"24496499, 20832567",journal of artificial intelligence and soft computing research,7.6,1.369,1.221,22,2.675,0.00034,Q1,X,2,0,2,1
+"22142126, 22142134",journal of information security and applications,7.6,1.873,1.317,45,4.96,0.00318,Q1,W,0,2,1,2
+"15729354, 13837133",constraints,7.5,1.386,0.626,46,0.583,0.00049,Q2,X,2,0,2,1
+15411672,ieee intelligent systems,7.5,2.138,1.572,129,6.744,0.00319,Q1,W,0,2,1,0
+"15337928, 15324435",journal of machine learning research,7.5,2.992,2.393,221,5.177,0.03166,Q1,W,0,2,3,0
+21682291,ieee transactions on human-machine systems,7.4,1.636,1.084,127,4.124,0.00338,Q1,W,0,2,1,2
+"19353820, 19353812",swarm intelligence,7.4,1.257,0.765,41,3.727,0.00051,Q2,X,2,0,2,2
+2504446X,drones,7.2,1.922,0.995,24,5.532,0.00173,Q1,W,0,2,1,2
+19324537,ieee transactions on network and service management,7.2,1.698,1.618,57,4.758,0.00519,Q1,W,0,2,1,2
+10459219,ieee transactions on parallel and distributed systems,7.2,1.708,1.304,146,3.757,0.00818,Q1,W,0,2,1,2
+"15730565, 08856125",machine learning,7.2,2.348,1.64,153,5.414,0.00574,Q1,W,0,2,1,0
+"16151488, 1615147X",structural and multidisciplinary optimization,7.2,1.681,1.495,124,4.279,0.01222,Q1,W,0,2,1,2
+1650114,fuzzy sets and systems,7.1,1.898,1.338,174,4.462,0.00681,Q1,W,0,2,1,2
+"23798920, 23798939",ieee transactions on cognitive and developmental systems,7.1,1.361,1.102,43,4.546,0.00211,Q1,W,2,0,1,2
+21508097,proceedings of the vldb endowment,7,2.464,2.376,135,3.557,0.00892,Q1,W,0,2,1,0
+"09248463, 15728382",artificial intelligence and law,6.9,3.439,1.316,41,2.723,0.00106,Q1,W,0,2,1,2
+"14320924, 01787675",computational mechanics,6.9,1.46,1.413,109,4.391,0.00706,Q1,W,0,2,1,2
+"08912017, 15309312",computational linguistics,6.8,2.679,1.17,103,7.778,0.00217,Q1,W,0,2,1,0
+15734277,optical switching and networking,6.8,1.147,0.559,30,1.828,0.00065,Q2,X,2,0,2,1
+0142694X,design studies,6.7,2.406,1.113,98,3.853,0.00197,Q1,W,0,2,1,2
+15707873,journal of grid computing,6.7,1.591,1.176,55,4.674,0.00098,Q1,W,0,2,1,2
+"00045411, 1557735X",journal of the acm,6.7,2.853,2.808,131,2.269,0.00472,Q1,W,0,2,1,0
+"17568765, 17568757",topics in cognitive science,6.7,1.75,1.252,61,3.265,0.00379,Q1,W,0,2,1,2
+25119044,advanced quantum technologies,6.6,1.295,1.858,19,5.31,0.00325,Q1,W,0,2,1,2
+"14698005, 02698889",knowledge engineering review,6.6,1.135,0.681,64,2.016,0.00042,Q2,X,2,0,2,1
+"15537358, 1553734X",plos computational biology,6.6,1.471,1.96,191,4.779,0.06475,Q1,W,0,2,1,0
+15591131,acm transactions on the web,6.5,1.471,0.839,46,3.35,0.00053,Q2,W,2,0,2,2
+20411480,journal of biomedical semantics,6.5,1.521,0.719,39,1.675,0.00127,Q2,W,2,0,2,1
+"16155289, 16155297",universal access in the information society,6.5,2.015,0.894,46,2.629,0.00152,Q2,W,2,0,1,1
+"14635003, 14635011",ocean modelling,6.4,1.446,1.364,88,3.293,0.00593,Q1,W,0,2,1,2
+"15576051, 15335399",acm transactions on internet technology,6.3,1.432,1.175,59,3.989,0.00161,Q1,W,2,0,1,2
+"16153383, 16153375",foundations of computational mathematics,6.3,2.487,1.865,58,3.439,0.00608,Q1,W,0,2,1,2
+8874417,journal of computer information systems,6.3,1.48,0.82,66,3.317,0.0012,Q2,W,2,0,1,2
+18787789,nano communication networks,6.3,1.153,1.214,35,2.783,0.00088,Q1,W,2,0,2,1
+"21606463, 21606455",acm transactions on interactive intelligent systems,6.2,1.288,0.622,35,1.887,0.00193,Q2,W,2,0,2,1
+10897801,ieee internet computing,6.2,1.389,1.083,116,2.68,0.00193,Q1,W,0,2,1,2
+15361268,ieee pervasive computing,6.1,1.549,1.058,103,1.603,0.00116,Q1,W,2,0,1,2
+"21908516, 21908508",journal of cryptographic engineering,6.1,1.807,0.832,29,1.585,0.00064,Q2,W,2,0,2,1
+"20960662, 20960433",computational visual media,5.9,1.595,1.579,18,4.127,0.00138,Q1,X,2,0,1,2
+189340,ieee transactions on computers,5.9,1.707,1.04,129,3.183,0.00644,Q1,W,0,2,1,2
+"23301643, 23301635",journal of the association for information science and technology,5.9,1.672,0.848,150,3.275,0.00678,Q2,W,0,2,1,2
+"02191377, 02193116",knowledge and information systems,5.9,1.413,0.988,78,2.531,0.00439,Q1,W,2,0,1,1
+"10955623, 00100285",cognitive psychology,5.8,1.782,1.647,123,3.746,0.00305,Q1,W,0,2,1,2
+2780070,ieee transactions on computer-aided design of integrated circuits and systems,5.8,1.469,1.039,122,2.565,0.00635,Q1,W,0,2,1,2
+"18616410, 18616429",international journal of computer assisted radiology and surgery,5.8,1.397,1,53,3.421,0.00684,Q1,W,2,0,2,2
+16735447,china communications,5.7,1.149,0.924,48,3.17,0.00418,Q1,W,2,0,2,1
+23274697,ieee transactions on network science and engineering,5.7,1.438,1.365,29,5.033,0.00434,Q1,W,2,0,1,2
+15504859,acm transactions on sensor networks,5.6,1.152,1.083,70,2.56,0.00106,Q1,W,2,0,2,1
+"16871499, 16871472",eurasip journal on wireless communications and networking,5.6,1.032,0.832,67,2.559,0.00473,Q2,W,2,0,2,1
+0168874X,finite elements in analysis and design,5.6,1.124,0.836,81,2.618,0.00232,Q2,W,2,0,2,1
+"24751510, 24751502",ieee transactions on games,5.6,1.771,0.594,46,1.237,0.00031,Q2,X,2,0,2,1
+"10960821, 0749596X",journal of memory and language,5.6,2.561,1.784,156,4.521,0.00713,Q1,W,0,2,1,0
+"01677055, 14678659",computer graphics forum,5.4,1.29,1.668,121,2.363,0.01745,Q1,W,0,2,1,2
+15749541,ecological informatics,5.4,1.436,0.868,60,4.498,0.00338,Q2,W,2,0,1,2
+"15737675, 09259902",journal of intelligent information systems,5.4,1.681,0.805,57,2.504,0.00113,Q2,W,2,0,2,1
+"15327744, 10919392",journal of organizational computing and electronic commerce,5.3,0.928,0.645,43,2.237,0.00043,Q2,X,2,0,2,1
+"13807501, 15737721",multimedia tools and applications,5.3,1.055,0.716,80,2.577,0.02449,Q2,W,2,0,2,1
+14200597,computational geosciences,5.2,1.238,0.757,72,2.948,0.00383,Q2,W,2,0,2,1
+"10970037, 00283045",networks,5.2,1.603,1.283,66,1.871,0.00358,Q1,W,2,0,1,1
+"20407947, 20407939",international journal for numerical methods in biomedical engineering,5.1,1.158,0.668,65,2.648,0.00324,Q2,W,2,0,2,1
+"18612784, 18612776",intelligent service robotics,5,1.342,0.779,32,2.468,0.00076,Q2,X,2,0,2,1
+"19366450, 19366442",peer-to-peer networking and applications,5,1.045,0.771,36,3.488,0.0036,Q2,W,2,0,2,1
+"21530785, 21530793",dynamic games and applications,4.8,1.73,0.938,24,1.296,0.0012,Q2,W,2,0,2,1
+16625218,frontiers in neurorobotics,4.8,1.364,0.874,39,3.493,0.00298,Q2,W,2,0,2,1
+"16155270, 16155262",international journal of information security,4.8,1.296,0.755,45,2.427,0.00083,Q2,X,2,0,2,1
+"1433755X, 14337541",pattern analysis and applications,4.8,1.03,0.707,58,2.307,0.00174,Q2,X,2,0,2,1
+"14680394, 02664720",expert systems,4.7,0.949,0.599,41,2.812,0.00155,Q2,X,2,0,2,1
+"09226443, 15731383",real-time systems,4.7,1.347,0.656,58,1.865,0.0004,Q2,X,2,0,2,1
+"10220038, 15728196",wireless networks,4.7,0.927,0.657,91,2.701,0.00484,Q2,W,2,0,2,1
+7384602,ai magazine,4.5,1.645,0.577,79,2.524,0.00185,Q2,W,2,0,2,1
+"03640213, 15516709",cognitive science,4.5,1.592,1.202,120,2.617,0.00721,Q2,W,0,2,1,2
+"15737705, 10647570",journal of network and systems management,4.5,0.876,0.563,36,2.198,0.00057,Q2,X,2,0,2,1
+"13704621, 1573773X",neural processing letters,4.5,0.8,0.597,58,2.565,0.00408,Q2,W,2,0,2,3
+"1387974X, 15728188",photonic network communications,4.5,0.905,0.358,40,1.768,0.0008,Q3,X,2,0,2,3
+"15730824, 09236082",multidimensional systems and signal processing,4.4,0.743,0.452,41,2.03,0.00138,Q3,X,2,0,2,3
+"11092858, 18661505",operational research,4.4,1.324,0.675,26,2.708,0.00132,Q2,X,2,0,2,1
+"15737454, 13872532",autonomous agents and multi-agent systems,4.3,1.638,0.813,72,2.475,0.00124,Q2,W,2,0,2,1
+"08857474, 15737691",journal of scientific computing,4.3,1.353,1.326,79,2.843,0.01469,Q1,W,2,0,1,1
+20798954,systems,4.3,1.375,0.621,22,2.895,0.00089,Q2,X,2,0,2,1
+"15501329, 15501477",international journal of distributed sensor networks,4.2,0.739,0.502,58,1.938,0.00352,Q2,X,2,0,2,3
+"15730670, 01687433",journal of automated reasoning,4.2,1.411,0.93,56,1.15,0.00141,Q2,W,2,0,2,1
+15309827,journal of computing and information science in engineering,4.2,0.988,0.627,53,2.3,0.00104,Q2,X,2,0,2,1
+"15206858, 10981241",systems engineering,4.2,1.147,0.693,53,2.034,0.00056,Q2,X,2,0,2,1
+17560381,biodata mining,4.1,0.947,0.701,32,4.079,0.00124,Q2,W,2,0,2,1
+"10876553, 01969722",cybernetics and systems,4.1,1.036,0.563,41,1.859,0.00048,Q2,X,2,0,2,3
+17298806,international journal of advanced robotic systems,4.1,0.87,0.549,51,1.714,0.00386,Q2,X,2,0,2,3
+"08247935, 14678640",computational intelligence,4,1.004,0.638,53,2.142,0.00106,Q2,X,2,0,2,1
+"14321882, 09424962",multimedia systems,4,1.115,0.633,61,2.603,0.00101,Q2,X,2,0,2,1
+"14322315, 01782789",visual computer,4,1.211,0.658,69,2.835,0.00304,Q2,W,2,0,2,1
+"15581756, 02721716",ieee computer graphics and applications,3.9,0.98,0.686,95,1.909,0.00211,Q2,W,2,0,2,1
+"13811231, 15729397",journal of heuristics,3.9,0.922,0.589,67,2.247,0.00082,Q2,X,2,0,2,1
+"09603174, 15731375",statistics and computing,3.9,1.639,1.125,77,2.324,0.00883,Q1,W,2,0,1,1
+"01782770, 14320452",distributed computing,3.8,1.382,1.23,47,1.937,0.00105,Q1,W,2,0,2,1
+17350654,iranian journal of fuzzy systems,3.8,1.044,0.491,32,2.006,0.00109,Q3,X,2,0,2,3
+"20511310, 20511329",journal of complex networks,3.8,0.925,0.524,23,1.492,0.00162,Q2,X,2,0,2,3
+"25901184, 26659182",journal of computer languages,3.8,1.457,0.625,8,1.778,0.00026,Q2,X,2,0,2,3
+"18604749, 10009000",journal of computer science and technology,3.8,0.98,0.587,51,1.871,0.00156,Q2,X,2,0,2,1
+20503385,animal biotelemetry,3.7,0.999,0.83,26,3.155,0.00096,Q2,X,2,0,2,1
+17518806,iet software,3.7,0.825,0.452,45,1.15,0.00053,Q2,X,2,0,2,3
+1641876X,international journal of applied mathematics and computer science,3.7,0.981,0.552,49,2.157,0.00086,Q2,X,2,0,2,1
+"10991131, 10745351",international journal of communication systems,3.7,0.762,0.517,52,1.882,0.00346,Q2,X,2,0,2,3
+"10557148, 10991190",international journal of network management,3.7,0.664,0.629,31,1.914,0.00036,Q2,X,2,0,2,3
+10946136,journal of scheduling,3.7,1.661,0.879,64,2.13,0.00146,Q2,W,2,0,2,1
+0368492X,kybernetes,3.7,0.926,0.409,43,2.352,0.00155,Q2,X,2,0,2,3
+"00928240, 15229602",bulletin of mathematical biology,3.6,0.91,0.594,90,3.871,0.00637,Q2,W,2,0,2,1
+2198436,international journal of humanoid robotics,3.6,0.793,0.553,38,1.408,0.00043,Q3,X,2,0,2,3
+"14698110, 13513249",natural language engineering,3.6,1.167,0.519,57,1.841,0.00082,Q3,X,2,0,2,1
+1676423,science of computer programming,3.6,1.008,0.558,65,1.039,0.00115,Q3,X,2,0,2,1
+"17412633, 10597123",adaptive behavior,3.5,1.11,0.416,54,1.867,0.00095,Q3,X,2,0,2,1
+"1099047X, 10964290",international journal of rf and microwave computer-aided engineering,3.5,0.838,0.535,40,1.987,0.00344,Q2,X,2,0,2,3
+"26717255, 26717263",journal of electromagnetic engineering and science,3.5,1.095,0.546,15,1.866,0.00045,Q2,X,2,0,2,3
+2198762,international journal of computational methods,3.4,0.79,0.442,40,1.734,0.00175,Q2,X,2,0,2,3
+"00207160, 10290265",international journal of computer mathematics,3.4,1.065,0.519,51,1.75,0.00317,Q2,X,2,0,2,1
+17518709,iet information security,3.3,0.839,0.564,37,1.3,0.00091,Q2,X,2,0,2,3
+"19390122, 19390114",security and communication networks,3.3,1.075,0.734,50,1.968,0.00409,Q2,W,2,0,2,1
+"14753081, 14710684",theory and practice of logic programming,3.3,1.447,0.778,46,0.923,0.00094,Q2,X,2,0,2,3
+1419331,microprocessors and microsystems,3.2,1.73,0.538,41,3.503,0.00218,Q2,X,2,0,2,1
+"14208954, 10163328",computational complexity,3.1,1.514,1.788,38,0.962,0.00101,Q1,W,2,0,2,1
+1692968,fundamenta informaticae,3.1,0.767,0.385,68,1.166,0.00199,Q3,X,2,0,2,3
+20416695,i-perception,3.1,0.685,0.451,31,1.492,0.00192,Q3,X,2,0,2,3
+"10902724, 00220000",journal of computer and system sciences,3.1,1.305,0.861,96,1.043,0.00232,Q2,W,2,0,2,1
+20751702,machines,3.1,1.39,0.523,22,2.899,0.00099,Q2,X,2,0,2,1
+"10876545, 08839514",applied artificial intelligence,3,1.031,0.506,59,2.777,0.00097,Q3,X,2,0,2,1
+1678396,computer aided geometric design,3,1.118,0.633,72,1.368,0.00188,Q2,W,2,0,2,1
+"23311622, 00950033, 15320936",data base for advances in information systems,3,1.115,0.567,58,1.854,0.00056,Q2,X,2,0,2,1
+"23522208, 23522216",journal of logical and algebraic methods in programming,3,1.179,0.615,17,1.088,0.00089,Q2,X,2,0,2,3
+"02883635, 18827055",new generation computing,3,0.532,0.316,28,1.18,0.00032,Q3,X,2,0,2,3
+"15578666, 10665277",journal of computational biology,2.9,0.56,0.581,97,1.549,0.00283,Q2,X,2,0,2,1
+"16102940, 09485023",journal of molecular modeling,2.9,0.625,0.344,71,2.172,0.00446,Q3,X,2,0,2,3
+22277390,mathematics,2.9,1.162,0.538,43,2.592,0.0154,Q2,W,2,0,2,3
+"10645462, 15309185",artificial life,2.8,0.67,0.338,57,1.717,0.00056,Q3,X,2,0,2,3
+2644401,engineering computations,2.8,0.769,0.364,59,1.675,0.00206,Q3,X,2,0,2,3
+2180014,international journal of pattern recognition and artificial intelligence,2.8,0.771,0.429,57,1.261,0.00148,Q3,X,2,0,2,3
+3782166,journal of pragmatics,2.8,2.024,0.93,103,1.86,0.00602,Q2,W,2,0,1,2
+1678191,parallel computing,2.8,0.802,0.36,69,0.983,0.00086,Q3,X,2,0,2,3
+"10844309, 15577309",acm transactions on design automation of electronic systems,2.7,0.777,0.533,53,1.447,0.00106,Q2,X,2,0,2,3
+9217126,ai communications,2.7,0.771,0.456,40,1.029,0.00045,Q3,X,2,0,2,3
+"15729125, 00063835",bit numerical mathematics,2.7,1.364,1.035,58,1.856,0.00202,Q1,W,2,0,2,1
+"16124782, 16124790",cognitive processing,2.7,1.003,0.462,46,1.523,0.00152,Q3,X,2,0,2,3
+17487188,algorithms for molecular biology,2.6,0.853,0.767,36,1.721,0.00093,Q2,X,2,0,2,3
+15431649,international journal for multiscale computational engineering,2.6,0.553,0.538,29,1.591,0.00049,Q2,X,2,0,2,3
+"23364335, 12100552",neural network world,2.6,0.625,0.345,27,1.304,0.00021,Q3,X,2,0,2,3
+1665316,performance evaluation,2.6,1.476,0.644,67,2.205,0.00135,Q2,W,2,0,2,1
+2181940,international journal of software engineering and knowledge engineering,2.5,0.607,0.332,36,1.007,0.00048,Q3,X,2,0,2,3
+"15526283, 15526291",international journal on semantic web and information systems,2.5,0.704,0.367,33,1.478,0.00021,Q3,X,2,0,2,3
+10263098,scientia iranica,2.5,0.602,0.306,57,1.416,0.00253,Q3,X,2,0,2,3
+15464261,computer animation and virtual worlds,2.4,0.525,0.378,50,1.01,0.00063,Q3,X,2,0,2,3
+"10798587, 2326005X",intelligent automation and soft computing,2.4,0.946,0.344,28,3.401,0.00101,Q3,X,2,0,2,1
+"17481287, 17481279",international journal of sensor networks,2.4,0.487,0.36,34,1.264,0.0004,Q3,X,2,0,2,3
+"14320525, 00015903",acta informatica,2.3,1.415,0.623,41,0.871,0.00066,Q2,X,2,0,2,3
+"15737470, 10122443",annals of mathematics and artificial intelligence,2.3,0.974,0.42,56,1.019,0.00084,Q3,X,2,0,2,3
+2182130,international journal on artificial intelligence tools,2.3,0.647,0.389,33,1.059,0.00064,Q3,X,2,0,2,3
+"13826905, 15732886",journal of combinatorial optimization,2.3,0.993,0.523,49,1.262,0.00324,Q2,X,2,0,2,3
+"20794029, 16079264",journal of internet technology,2.3,0.443,0.315,23,1.14,0.00078,Q3,X,2,0,2,3
+"1875905X, 1574017X",mobile information systems,2.3,0.842,0.495,37,1.863,0.00166,Q2,X,2,0,2,3
+"15240703, 15240711",graphical models,2.2,0.552,0.325,58,1.094,0.00044,Q3,X,2,0,2,3
+"10902651, 08905401",information and computation,2.2,1.063,0.543,76,1.24,0.00198,Q2,X,2,0,2,1
+"20512201, 13558250",journal of consciousness studies,2.2,0.944,0.453,67,1.361,0.00185,Q3,X,2,0,2,3
+"01675133, 14774593",journal of semantics,2.2,1.816,0.709,43,1,0.0013,Q2,W,2,0,2,3
+13875868,spatial cognition and computation,2.2,0.692,0.374,36,1.533,0.00037,Q3,X,2,0,2,3
+"00329460, 16083253",problems of information transmission,2.1,1.19,0.661,19,1.34,0.00056,Q2,X,2,0,2,3
+"14330490, 14324350",theory of computing systems,2.1,1.004,0.509,42,0.616,0.00156,Q3,X,2,0,2,3
+"1088467X, 15714128",intelligent data analysis,2,0.532,0.357,48,1.321,0.00075,Q3,X,2,0,2,3
+1291831,international journal of modern physics c,2,0.51,0.299,67,1.353,0.00141,Q3,X,2,0,2,3
+"15465004, 15457362",international journal of web services research,2,0.554,0.297,27,0.771,9.00E-05,Q3,Y,2,0,2,3
+"19767277, 22881468",ksii transactions on internet and information systems,2,0.408,0.315,29,0.972,0.00161,Q3,X,2,0,2,3
+"14684233, 03010066",perception,2,0.676,0.458,94,1.695,0.00215,Q3,X,2,0,2,1
+"15729443, 02570130",queueing systems,2,1.011,0.685,54,1.402,0.00115,Q2,X,2,0,2,3
+15725286,discrete optimization,1.9,1.224,0.646,38,1.509,0.00123,Q2,W,2,0,2,3
+"19305346, 19305338",advances in mathematics of communications,1.8,0.985,0.666,23,1.015,0.00187,Q2,X,2,0,2,3
+16179447,computational methods and function theory,1.8,1.411,0.514,15,1.155,0.00102,Q3,X,2,0,2,3
+"10642307, 15556530",journal of computer and systems sciences international,1.8,1.478,0.449,22,0.722,0.00041,Q2,X,2,0,2,3
+"15593940, 21575452",communications in applied mathematics and computational science,1.7,0.812,0.468,24,1.438,0.00031,Q3,X,2,0,2,3
+"16618262, 16618254",complex analysis and operator theory,1.7,1.041,0.558,23,0.819,0.00214,Q2,X,2,0,2,3
+"09168516, 17451345",ieice transactions on communications,1.6,0.416,0.248,57,0.598,0.00096,Q3,Y,2,0,2,3
+"17451361, 09168532",ieice transactions on information and systems,1.6,0.418,0.296,50,0.695,0.00216,Q3,X,2,0,2,3
+"17438225, 17438233",international journal of ad hoc and ubiquitous computing,1.5,0.335,0.262,24,0.773,0.00025,Q3,Y,2,0,2,3
+10162364,journal of information science and engineering,1.5,0.568,0.269,39,1.142,0.00046,Q4,X,2,0,2,3
+"10778926, 10971440",electronic journal of combinatorics,1.3,1.087,0.724,48,0.69,0.00723,Q2,W,2,0,2,3
+1290541,international journal of foundations of computer science,1.3,0.685,0.389,41,0.662,0.00113,Q2,X,2,0,2,3
+13359150,computing and informatics,1.2,0.464,0.226,28,0.455,0.00021,Q4,Y,2,0,2,3
+"18726984, 09262245",differential geometry and its applications,1,0.915,0.425,36,0.536,0.00178,Q3,X,2,0,2,3
+"19429541, 19429533",electronics and communications in japan,0.9,0.353,0.172,15,0.36,0.00033,Q4,Y,2,0,2,3
+15409589,journal of web engineering,0.8,0.757,0.255,13,0.575,0.00014,Q3,Y,2,0,2,3
+2157846X,nature biomedical engineering,32.1,3.816,5.635,75,29.234,0.02704,Q1,W,1,1,0,0
+"21682275, 21682267",ieee transactions on cybernetics,22,3.673,4.506,140,19.118,0.0563,Q1,W,1,1,0,0
+15361284,ieee wireless communications,22,3.376,6.06,169,12.777,0.01708,Q1,W,1,1,0,0
+15513203,ieee transactions on industrial informatics,21.3,3.471,4.333,151,11.648,0.05282,Q1,W,1,1,0,0
+"02780062, 1558254X",ieee transactions on medical imaging,18.8,3.909,4.045,233,11.037,0.03385,Q1,W,1,1,0,0
+9242716,isprs journal of photogrammetry and remote sensing,17.6,2.927,3.481,155,11.774,0.02285,Q1,W,1,1,3,0
+7365845,robotics and computer-integrated manufacturing,16,3.365,2.873,99,10.103,0.00719,Q1,W,1,1,3,0
+15361276,ieee transactions on wireless communications,15.7,2.321,4.436,224,8.346,0.0498,Q1,W,1,1,3,0
+"08883270, 10961216",mechanical systems and signal processing,15.1,3.234,2.768,180,8.934,0.03988,Q1,W,1,1,3,0
+15523098,ieee transactions on robotics,14.2,3.597,3.458,168,6.835,0.01362,Q1,W,1,1,3,0
+20573960,npj computational materials,14,2.437,2.967,49,12.256,0.01647,Q1,W,1,1,3,0
+"1557928X, 07421222",journal of management information systems,13.9,3.54,4.365,153,7.582,0.00484,Q1,W,1,1,3,0
+"15580016, 15249050",ieee transactions on intelligent transportation systems,13.7,2.928,2.111,166,9.551,0.02879,Q1,W,1,1,3,0
+15209210,ieee transactions on multimedia,13,2.49,2.735,135,8.182,0.02022,Q1,W,0,1,3,0
+"15564967, 15564959",journal of field robotics,12.9,2.761,2.342,100,6.385,0.00397,Q1,W,0,2,3,0
+20524463,scientific data,12.6,3.402,2.468,80,8.501,0.04575,Q1,W,1,1,3,0
+1741038X,journal of manufacturing technology management,12.4,2.181,1.898,76,8.144,0.00251,Q1,W,0,2,3,0
+1681699,computers and electronics in agriculture,11.8,2.38,1.595,133,6.757,0.02006,Q1,W,0,2,3,0
+23659440,international journal of educational technology in higher education,11.8,4.303,2.102,38,7.611,0.00332,Q1,W,0,2,3,0
+23986352,npj digital medicine,11.8,3.717,3.326,28,15.357,0.01291,Q1,W,1,1,3,0
+2047217X,gigascience,11.6,1.905,2.568,64,7.658,0.01707,Q1,W,0,2,3,0
+"00189286, 15582523",ieee transactions on automatic control,11.4,2.651,4.172,300,6.549,0.05356,Q1,W,1,1,3,0
+"09240136, 18734774",journal of materials processing technology,11.3,2.168,1.578,201,6.162,0.02048,Q1,W,0,2,3,0
+"21682208, 21682194",ieee journal of biomedical and health informatics,10.9,2.274,1.799,137,7.021,0.01413,Q1,W,0,2,3,0
+"14355663, 01770667",engineering with computers,10.7,1.862,0.957,60,8.083,0.00647,Q2,W,0,2,1,2
+"18861784, 11343060",archives of computational methods in engineering,10.4,3.253,1.616,71,8.171,0.00598,Q1,W,0,2,3,0
+"15731391, 09241868",user modeling and user-adapted interaction,10.4,3.188,1.53,76,4.23,0.00107,Q1,W,0,2,1,2
+457825,computer methods in applied mechanics and engineering,10.3,2.039,2.179,205,6.588,0.03881,Q1,W,0,2,3,0
+190578,isa transactions,10.2,1.851,1.474,88,5.911,0.01492,Q1,W,0,2,1,2
+8873801,journal of computing in civil engineering,10.2,1.825,1.343,83,5.802,0.00389,Q1,W,0,2,1,2
+"15499626, 15499618",journal of chemical theory and computation,10,1.475,1.619,193,6.578,0.04127,Q1,W,0,2,1,0
+"10773142, 1090235X",computer vision and image understanding,9.9,1.928,1.916,139,4.886,0.00612,Q1,W,0,2,1,0
+"01692607, 18727565",computer methods and programs in biomedicine,9.7,2.079,1.329,115,7.027,0.0156,Q1,W,0,2,1,0
+"10468188, 15582868",acm transactions on information systems,9.6,2.707,1.585,84,4.657,0.00177,Q1,W,0,2,1,2
+"17262135, 16848799",journal of environmental informatics,9.6,1.693,1.694,33,10.22,0.00106,Q1,W,0,2,1,0
+11108665,egyptian informatics journal,9.3,2.532,1.144,38,4.195,0.00062,Q1,W,0,2,1,2
+"15465012, 15462234",journal of organizational and end user computing,9.2,4.814,1.209,36,7.4,0.00053,Q1,W,0,2,3,0
+9505849,information and software technology,9.1,2.271,1.446,107,3.862,0.0049,Q1,W,0,2,1,2
+17511577,journal of informetrics,9,2.228,1.437,77,4.373,0.00578,Q1,W,0,2,1,2
+"14228890, 10196781",electronic markets,8.9,1.873,1.033,41,6.017,0.00176,Q1,W,0,2,1,2
+1651684,signal processing,8.9,1.701,1.295,144,4.729,0.0172,Q1,W,0,2,1,2
+"18669964, 18669956",cognitive computation,8.6,1.515,1.348,56,4.89,0.0029,Q1,W,0,2,1,2
+"17443210, 09588221",computer assisted language learning,8.4,2.63,1.839,54,5.964,0.00325,Q1,W,0,2,1,2
+9574158,mechatronics,8.3,1.855,1.175,94,3.379,0.00441,Q1,W,0,2,1,2
+"00104825, 18790534",computers in biology and medicine,8.2,1.945,1.309,102,6.698,0.0143,Q1,W,0,2,1,0
+"17517583, 17517575",enterprise information systems,8.2,1.557,0.868,50,4.407,0.0016,Q2,W,0,2,1,2
+"15320480, 15320464",journal of biomedical informatics,8.2,1.788,1.128,112,8,0.01389,Q1,W,0,2,1,0
+"03741052, 0094114X",mechanism and machine theory,8.2,2.294,1.502,115,4.93,0.00946,Q1,W,0,2,1,2
+16625196,frontiers in neuroinformatics,8.1,1.563,1.111,66,3.739,0.00442,Q1,W,0,2,1,2
+20567189,npj systems biology and applications,8.1,1.066,1.39,25,4.671,0.00239,Q1,W,2,0,1,2
+9218890,robotics and autonomous systems,8.1,1.684,1.202,126,3.7,0.00734,Q1,W,0,2,1,2
+"15528286, 08944393",social science computer review,8.1,2.4,1.503,78,4.418,0.00463,Q1,W,0,2,1,2
+"15583457, 15369323",journal of the association for information systems,7.9,2.076,2.248,85,5.346,0.0037,Q1,W,0,2,1,2
+9670661,control engineering practice,7.8,1.702,1.32,125,4.057,0.00772,Q1,W,0,2,1,2
+23795077,msystems,7.8,1.429,2.144,54,7.324,0.01863,Q1,W,0,2,1,2
+1070986X,ieee multimedia,7.7,1.602,0.907,69,3.491,0.00113,Q2,W,0,2,1,2
+"1549960X, 15499596",journal of chemical information and modeling,7.7,1.339,1.223,169,6.162,0.02108,Q1,W,0,2,1,2
+9591524,journal of process control,7.6,1.602,1.131,118,3.951,0.00502,Q1,W,0,2,1,2
+"18681751, 18681743",molecular informatics,7.6,1.005,0.616,70,4.05,0.00228,Q2,W,2,0,2,1
+"20474938, 20474946",iet biometrics,7.5,1.346,0.951,33,2.716,0.00114,Q2,W,2,0,2,1
+19391382,ieee transactions on learning technologies,7.4,2.044,1.288,51,4.433,0.00185,Q1,W,0,2,1,2
+"09696016, 14753995",international transactions in operational research,7.4,1.732,1.112,56,3.61,0.0034,Q1,W,0,2,1,2
+"1618727X, 08971889",journal of digital imaging,7.4,1.621,0.978,63,4.903,0.00475,Q2,W,0,2,1,2
+"0266352X, 18737633",computers and geotechnics,7.3,2.346,1.694,109,5.218,0.01656,Q1,W,0,2,1,2
+"15327590, 10447318",international journal of human-computer interaction,7.3,2.042,0.963,76,4.92,0.0049,Q2,W,0,2,1,2
+10897798,ieee communications letters,7.2,1.357,1.712,150,3.553,0.02527,Q1,W,0,2,1,2
+10494820,interactive learning environments,7.2,1.761,1.165,49,4.965,0.0049,Q1,W,0,2,1,2
+"0951192X, 13623052",international journal of computer integrated manufacturing,7.2,1.409,1.095,59,4.42,0.00257,Q1,W,0,2,1,2
+"15414140, 07356331",journal of educational computing research,7.2,1.889,1.279,64,4.345,0.00241,Q1,W,0,2,1,2
+18745482,international journal of critical infrastructure protection,7.1,1.784,0.777,40,3.683,0.00069,Q2,W,2,0,1,2
+"10902716, 00219991",journal of computational physics,7.1,1.933,2.069,260,4.645,0.04576,Q1,W,0,2,3,0
+"13652729, 02664909",journal of computer assisted learning,7,1.964,1.491,98,3.761,0.00358,Q1,W,0,2,1,2
+"15361241, 15582639",ieee transactions on nanobioscience,6.9,0.961,0.873,65,3.206,0.00247,Q2,W,2,0,2,1
+"14220067, 16616596",international journal of molecular sciences,6.9,1.401,1.176,195,6.208,0.24907,Q1,W,3,3,1,0
+"15734951, 0920654X",journal of computer-aided molecular design,6.9,0.943,0.763,104,4.179,0.00301,Q2,W,2,0,1,2
+"17579880, 17579899",journal of hospitality and tourism technology,6.9,1.463,1.205,34,5.576,0.00116,Q1,W,2,2,1,2
+"19411197, 19391390",ieee intelligent transportation systems magazine,6.8,1.846,0.993,45,5.293,0.00195,Q1,W,0,2,1,2
+"15540170, 02681102",information technology for development,6.7,1.625,1.008,41,4.261,0.00144,Q1,W,2,0,1,2
+"17538955, 17538947",international journal of digital earth,6.7,1.352,0.903,50,4.606,0.00295,Q2,W,2,0,1,2
+"14332825, 14332833",international journal on document analysis and recognition,6.7,2.087,1.556,52,3.87,0.00041,Q1,W,0,2,1,2
+21931127,epj data science,6.5,1.651,1.071,34,3.63,0.00296,Q1,W,2,0,1,2
+1697439,chemometrics and intelligent laboratory systems,6.4,1.316,0.733,132,4.175,0.00578,Q2,W,0,2,1,2
+"21617856, 2161783X",games for health journal,6.4,1.483,0.933,35,4.07,0.0016,Q2,W,2,0,2,2
+"02683768, 14333015",international journal of advanced manufacturing technology,6.4,1.368,0.924,134,3.563,0.03811,Q2,W,0,2,1,2
+2628856,image and vision computing,6.3,1.524,1.159,135,3.86,0.00417,Q1,W,0,2,1,2
+"00189448, 15579654",ieee transactions on information theory,6.2,1.735,1.731,279,2.978,0.02451,Q1,W,0,2,1,0
+19442866,policy and internet,6.2,2.025,1.445,30,4.51,0.00158,Q1,W,0,2,1,2
+"17518644, 17518652",iet control theory and applications,6.1,0.879,0.984,113,2.67,0.01161,Q1,W,2,0,1,2
+12962074,journal of cultural heritage,6.1,1.794,0.722,70,3.229,0.00499,Q2,W,2,0,1,2
+10473203,journal of visual communication and image representation,6.1,1.131,0.827,84,2.887,0.00645,Q2,W,2,0,2,1
+"17381584, 17381991",smart structures and systems,6.1,0.901,0.681,54,4.581,0.00258,Q2,W,2,0,2,1
+20010370,computational and structural biotechnology journal,6,1.394,1.538,53,6.155,0.00945,Q1,W,0,2,1,2
+"13845640, 1573272X",multibody system dynamics,6,1.88,0.975,66,3.333,0.00172,Q2,W,2,0,1,2
+14712105,bmc bioinformatics,5.9,1.105,1.246,218,3.307,0.03801,Q1,W,0,2,1,0
+1531636X,ieee circuits and systems magazine,5.8,1.468,0.901,55,4.04,0.00055,Q2,W,2,0,1,2
+"19401507, 19401493",journal of building performance simulation,5.7,1.06,0.814,44,2.867,0.00137,Q2,W,2,0,2,1
+9583440,recall,5.7,2.902,1.343,57,4.235,0.00089,Q1,W,0,2,1,2
+13881957,ethics and information technology,5.6,2.922,1.328,58,3.633,0.00228,Q1,W,0,2,1,2
+"15882861, 01389130",scientometrics,5.6,1.62,0.929,123,3.801,0.01406,Q2,W,0,2,1,2
+1536125X,ieee transactions on nanotechnology,5.5,1.043,0.577,85,2.967,0.00364,Q2,W,2,0,2,1
+1676393,speech communication,5.5,1.322,0.61,110,2.723,0.00219,Q2,W,2,0,1,2
+22145796,big data research,5.4,1.899,0.994,29,3.739,0.00081,Q1,W,2,0,2,2
+"0305215X, 10290273",engineering optimization,5.4,1.24,0.669,69,2.5,0.00334,Q2,W,2,0,2,1
+"23294051, 19391412",ieee transactions on haptics,5.2,1.435,1.101,54,3.105,0.00175,Q1,W,2,0,2,2
+"17519640, 17519632",iet computer vision,5.1,0.807,0.561,39,1.484,0.00148,Q2,X,2,0,2,3
+17264529,international journal of simulation modelling,5.1,1.21,0.713,28,2.775,0.00072,Q2,X,2,0,2,1
+10580530,information systems management,5,1.498,0.811,61,3.882,0.00084,Q2,W,2,0,2,2
+"19389027, 15266133",journal of electronic commerce research,4.9,1.205,0.872,37,4,0.00051,Q2,W,2,0,2,1
+"00207179, 13665820",international journal of control,4.8,1.153,0.928,119,2.102,0.00764,Q2,W,2,0,1,2
+14726947,bmc medical informatics and decision making,4.6,1.387,0.833,79,3.298,0.00955,Q2,W,2,0,2,1
+"18686486, 18686478",evolving systems,4.6,1.044,0.585,28,2.347,0.00063,Q2,X,2,0,2,1
+"19450818, 15391523",journal of research on technology in education,4.6,1.708,1.078,67,3.281,0.00124,Q1,W,2,0,1,2
+"0030364X, 15265463",operations research,4.6,2.103,3.615,145,3.924,0.01151,Q1,W,0,2,1,0
+"1994036X, 19913761",international journal of design,4.5,1.688,0.529,44,1.512,0.00047,Q2,X,2,0,2,1
+15209202,it professional,4.5,1.045,0.774,54,2.59,0.00157,Q2,W,2,0,2,1
+"14321769, 09328092",machine vision and applications,4.5,1.045,0.745,70,2.983,0.00187,Q2,W,2,0,2,1
+"02635747, 14698668",robotica,4.4,1.143,0.59,67,2.406,0.00214,Q2,W,2,0,2,1
+"13892576, 15737632",genetic programming and evolvable machines,4.3,1.036,0.904,41,2.522,0.00046,Q2,X,2,0,2,1
+"14738724, 14738716",information visualization,4.3,1.465,0.58,49,2.174,0.00066,Q2,W,2,0,2,1
+"15677818, 15729796",natural computing,4.3,1.232,0.584,42,1.504,0.0013,Q2,X,2,0,2,1
+"14684527, 14684535",online information review,4.3,1.077,0.63,64,2.901,0.00217,Q2,W,2,0,2,1
+"21676461, 2167647X",big data,4.2,1.647,0.643,31,4.426,0.00168,Q2,W,2,0,2,1
+"03081079, 15635104",international journal of general systems,4.2,1.397,0.72,50,2.435,0.00085,Q2,X,2,0,2,1
+"00207721, 14645319",international journal of systems science,4.2,0.716,0.741,74,2.648,0.00649,Q2,W,2,0,2,3
+24699322,computer assisted surgery,4.1,1.157,0.41,65,2.357,0.00047,Q3,X,2,0,2,1
+9555986,flow measurement and instrumentation,4.1,1.76,0.634,61,2.42,0.0023,Q2,W,2,0,2,1
+"1478596X, 14785951",international journal of medical robotics and computer assisted surgery,4.1,1.234,0.557,56,2.483,0.00305,Q2,W,2,0,2,1
+2665611,inverse problems,4.1,1.284,1.005,117,2.408,0.0082,Q1,W,2,0,1,2
+"14321378, 09332790",journal of cryptology,4.1,1.907,0.884,77,1.691,0.00092,Q2,W,2,0,2,1
+23527110,softwarex,4.1,1.458,0.644,27,2.868,0.00365,Q2,X,2,0,2,1
+18690327,applied clinical informatics,4,1.192,0.755,31,2.762,0.00281,Q2,W,2,0,2,1
+20552076,digital health,4,1.387,0.836,15,4.687,0.00256,Q2,W,2,0,2,1
+17519659,iet image processing,4,0.828,0.536,49,1.773,0.00431,Q2,X,2,0,2,3
+"09255001, 15732916",journal of global optimization,4,1.535,0.962,89,1.996,0.00483,Q2,W,2,0,2,1
+"14779730, 0031868X",photogrammetric record,4,1.049,0.515,52,2.618,0.00046,Q2,X,2,0,2,1
+"15581195, 10493301",acm transactions on modeling and computer simulation,3.9,0.993,0.419,52,0.851,0.0004,Q3,X,2,0,2,3
+22131337,astronomy and computing,3.9,0.847,0.688,27,2.78,0.00197,Q2,W,2,0,2,1
+"09650393, 1361651X",modelling and simulation in materials science and engineering,3.9,0.887,0.624,84,2.421,0.00336,Q2,W,2,0,2,1
+"22134808, 22134794",multisensory research,3.9,0.722,0.48,52,2.352,0.00108,Q3,X,2,0,2,3
+"09249907, 15737683",journal of mathematical imaging and vision,3.8,1.189,0.752,76,1.627,0.00229,Q2,W,2,0,2,1
+"10919856, 15265528",informs journal on computing,3.7,1.823,1.58,82,3.288,0.00319,Q1,W,0,2,1,2
+"01976729, 20423195",journal of advanced transportation,3.7,1.038,0.569,51,2.249,0.00556,Q2,W,2,0,2,1
+"02776693, 1099131X",journal of forecasting,3.7,0.948,0.594,63,2.627,0.00165,Q2,X,2,0,2,1
+20507445,heritage science,3.6,1.477,0.634,25,2.843,0.00218,Q2,W,2,0,2,1
+"10970363, 02712091",international journal for numerical methods in fluids,3.6,1.075,0.895,117,1.847,0.0036,Q2,W,2,0,2,2
+"20908873, 20908865",journal of analytical methods in chemistry,3.6,0.725,0.359,29,2.594,0.00191,Q3,X,2,0,2,3
+"15265471, 0364765X",mathematics of operations research,3.6,2.229,1.804,81,2.215,0.00617,Q1,W,0,2,1,2
+"01691864, 15685535",advanced robotics,3.5,1.013,0.736,67,2.057,0.00221,Q2,W,2,0,2,1
+"1097007X, 00989886",international journal of circuit theory and applications,3.5,0.963,0.45,52,2.378,0.00165,Q3,X,2,0,2,1
+"1572834X, 09296212",wireless personal communications,3.5,0.873,0.481,65,2.017,0.00852,Q3,X,2,0,2,3
+17518628,iet communications,3.4,0.599,0.476,63,1.345,0.00422,Q3,X,2,0,2,3
+"18625347, 18625355",advances in data analysis and classification,3.3,1.64,0.852,32,1.944,0.00161,Q2,W,2,0,2,1
+"09277099, 15729974",computational economics,3.3,1.015,0.454,43,1.741,0.00177,Q3,X,2,0,2,3
+11769343,evolutionary bioinformatics,3.2,0.558,0.572,32,2.031,0.00084,Q2,X,2,0,2,3
+"10981098, 08999457",international journal of imaging systems and technology,3.2,0.917,0.539,49,2.177,0.00098,Q2,X,2,0,2,3
+23273097,journal of aerospace information systems,3.2,0.916,0.47,35,1.444,0.00064,Q3,X,2,0,2,3
+2640473,electronic library,3.1,1.197,0.443,41,1.675,0.00091,Q3,X,2,0,2,3
+"23813121, 01626434",journal of special education technology,3.1,1.308,0.646,35,1.734,0.00065,Q2,X,2,0,2,3
+16711793,journal of systems engineering and electronics,3.1,0.833,0.437,36,1.363,0.00143,Q3,X,2,0,2,3
+7181876,journal of theoretical and applied electronic commerce research,3.1,2.003,0.566,33,5.318,0.00039,Q2,X,2,0,2,1
+3772063,iete journal of research,2.9,0.699,0.316,28,1.877,0.0014,Q3,X,2,0,2,3
+2188430,international journal of cooperative information systems,2.9,0.481,0.24,46,0.563,6.00E-05,Q4,Y,2,0,2,3
+"14768259, 10255842",computer methods in biomechanics and biomedical engineering,2.8,0.926,0.439,61,1.669,0.00345,Q3,X,2,0,2,3
+"14320541, 01784617",algorithmica,2.7,1.236,0.958,75,0.909,0.00431,Q1,W,2,0,2,1
+"03155986, 19160615",infor,2.7,0.881,0.579,34,1.047,0.00039,Q2,X,2,0,2,3
+200190,information processing letters,2.6,0.804,0.521,79,0.851,0.00221,Q2,X,2,0,2,3
+"10627375, 15337995",journal of global information management,2.6,0.864,0.469,42,3.474,0.00038,Q3,X,2,0,2,1
+"18686354, 18686346",laboratory phonology,2.6,1.199,0.976,10,1.761,0.00089,Q2,X,2,0,2,3
+"10224793, 26814617",acta acustica,2.5,0.694,0.365,60,1.355,9.00E-05,Q3,X,2,0,2,3
+1392124X,information technology and control,2.5,0.449,0.332,20,0.813,0.00026,Q3,Y,2,0,2,3
+"17415985, 17415977",inverse problems in science and engineering,2.5,1.038,0.408,34,1.44,0.00161,Q3,X,2,0,2,3
+"02197200, 17576334",journal of bioinformatics and computational biology,2.4,0.363,0.288,45,1.204,0.00055,Q3,X,2,0,2,3
+"09601295, 14698072",mathematical structures in computer science,2.3,1.202,0.676,41,0.616,0.00124,Q2,X,2,0,2,3
+"20557671, 2055768X",digital scholarship in the humanities,2.2,1.296,0.422,18,1.299,0.00171,Q3,X,2,0,2,3
+"17415276, 02675730",international journal of technology management,2.2,0.552,0.359,61,1.526,0.00055,Q3,X,2,0,2,3
+"1560229X, 10179909",journal of electronic imaging,2.2,0.452,0.314,68,0.829,0.00202,Q3,X,2,0,2,3
+13873954,mathematical and computer modelling of dynamical systems,2.2,0.759,0.286,34,1.286,0.00032,Q3,X,2,0,2,3
+"1556181X, 15561801",networks and heterogeneous media,2.2,0.855,0.599,33,1.41,0.00111,Q2,X,2,0,2,3
+"25917811, 25917285",journal of theoretical and computational acoustics,2.1,0.931,0.427,40,1.013,0.00026,Q3,X,2,0,2,3
+"17407842, 13614568",new review of hypermedia and multimedia,2.1,0.581,0.318,32,1.278,0.00012,Q3,X,2,0,2,3
+"19321864, 19321872",statistical analysis and data mining,2.1,0.776,0.472,34,1.247,0.00103,Q3,X,2,0,2,3
+23339403,ieee transactions on computational imaging,2,1.233,1.093,13,4.708,0.00568,Q1,W,2,0,2,1
+"00231584, 16083210",kinetics and catalysis,1.9,0.671,0.322,36,1.399,0.00069,Q3,X,2,0,2,3
+"15737187, 00405833",theory and decision,1.9,0.984,0.488,40,0.802,0.00116,Q3,X,2,0,2,3
+"15322467, 01630563",numerical functional analysis and optimization,1.8,0.99,0.522,47,1.418,0.00194,Q2,X,2,0,2,3
+"0424267X, 18423264",economic computation and economic cybernetics studies and research,1.6,0.649,0.252,20,0.899,0.00046,Q4,Y,2,0,2,3
+"24721832, 24721840",international journal of aerospace psychology,1.4,0.553,0.183,46,0.613,0.00011,Q4,Y,2,0,2,3
+"14601559, 17552850",journal of computational finance,1.4,0.858,0.276,14,1.417,0.00039,Q3,X,2,0,2,3
+"14684349, 17415233",progress in computational fluid dynamics,1.4,0.523,0.242,31,0.839,0.00029,Q4,Y,2,0,2,3
+"19433522, 10623701",journal of imaging science and technology,1.1,0.422,0.216,42,0.578,0.00036,Q4,Y,2,0,2,3
+"1875919X, 10589244",scientific programming,1.1,0.884,0.399,36,1.672,0.00099,Q3,X,2,0,2,3
+"01489267, 15315169",computer music journal,1,1.071,0.115,42,0.688,0.00015,Q4,Y,2,0,2,3
+"18726305, 15662535",information fusion,28.4,5.032,4.557,120,17.564,0.01682,Q1,W,1,1,0,0
+"03600300, 15577341",acm computing surveys,28,7.766,5.09,172,14.324,0.01766,Q1,W,1,1,0,0
+"15582256, 00189219",proceedings of the ieee,25.3,4.366,4.678,296,14.91,0.02691,Q1,W,1,1,0,0
+9638687,journal of strategic information systems,22.6,5.3,4.021,94,14.682,0.00244,Q1,W,1,1,0,0
+19493053,ieee transactions on smart grid,22.5,3.082,5.251,189,10.275,0.05683,Q1,W,1,1,0,0
+1663615,computers in industry,16.9,3.448,2.427,108,11.245,0.00698,Q1,W,1,1,3,0
+22106502,swarm and evolutionary computation,16.4,2.991,2.722,75,10.267,0.00804,Q1,W,1,1,3,0
+19493045,ieee transactions on affective computing,16.3,3.768,3.266,73,13.99,0.00512,Q1,W,1,1,3,0
+"10946705, 15527379",journal of service research,16.3,3.648,4.01,130,10.052,0.0041,Q1,W,1,1,3,0
+2786125,journal of manufacturing systems,15,3.439,2.95,80,9.498,0.00581,Q1,W,1,1,3,0
+7475632,computers in human behavior,14.9,3.234,2.174,203,8.957,0.05434,Q1,W,1,1,3,0
+20958099,engineering,14.5,3.168,1.614,59,12.834,0.01056,Q1,W,1,1,3,0
+15740137,computer science review,14.3,4.79,2.562,49,8.757,0.00258,Q1,W,1,1,3,0
+15455971,ieee transactions on dependable and secure computing,13.5,3.294,2.265,84,6.791,0.00484,Q1,W,0,2,3,0
+"14664437, 02683962",journal of information technology,12.8,3.128,2.229,82,5.15,0.00173,Q1,W,0,2,3,0
+14717727,information and organization,12.7,3.417,3.623,65,5.387,0.00146,Q1,W,0,2,3,0
+21921962,human-centric computing and information sciences,11.7,2.722,1.777,40,6.558,0.00134,Q1,W,0,2,1,2
+"14774054, 14675463",briefings in bioinformatics,11.6,3.293,3.032,121,13.994,0.02026,Q1,W,1,1,3,0
+"01485598, 1573689X",journal of medical systems,11.5,1.742,1.131,89,4.92,0.00946,Q1,W,0,2,1,2
+1679236,decision support systems,11.3,2.661,1.973,161,6.969,0.0075,Q1,W,0,2,3,0
+"0960085X, 14769344",european journal of information systems,11.1,2.879,2.201,113,9.011,0.00324,Q1,W,0,2,3,0
+"1997003X, 19942060",engineering applications of computational fluid mechanics,10.9,2.427,1.239,40,6.519,0.00246,Q1,W,0,2,1,2
+3772217,european journal of operational research,10.5,2.815,2.354,274,6.363,0.04317,Q1,W,1,1,3,0
+"18659284, 18659292",memetic computing,10,1.522,1.344,34,3.577,0.00095,Q1,W,0,2,1,2
+"15561607, 15561615",international journal of computer-supported collaborative learning,9.5,3.052,2.688,58,5.611,0.00132,Q1,W,0,2,3,0
+"21926611, 2192662X",international journal of multimedia information retrieval,9.4,2.218,1.174,22,2.553,0.00059,Q1,W,0,2,1,2
+"10730516, 15577325",acm transactions on computer-human interaction,9.2,2.675,0.82,95,4.106,0.00143,Q2,W,0,2,1,2
+1641212,journal of systems and software,8.9,2.157,1.418,113,3.514,0.00666,Q1,W,0,2,1,2
+104655,computer physics communications,8.8,2.238,1.284,186,4.717,0.02144,Q1,W,0,2,1,0
+18777503,journal of computational science,8.8,1.73,0.991,52,3.817,0.0048,Q1,W,0,2,1,2
+"15577317, 00010782",communications of the acm,8.7,3.014,1.564,220,14.065,0.01964,Q1,W,1,1,3,0
+"15327051, 07370024",human-computer interaction,8.7,1.695,0.685,73,6.459,0.00093,Q2,W,0,2,1,2
+2329924X,ieee transactions on computational social systems,8.6,1.483,1.368,33,4.747,0.00258,Q1,W,0,2,1,2
+2721732,ieee micro,8.2,2.15,1.312,95,2.821,0.00245,Q1,W,0,2,1,2
+"13658816, 13658824",international journal of geographical information science,8.2,1.753,1.144,121,5.152,0.00565,Q1,W,0,2,1,2
+17410398,journal of enterprise information management,8.2,1.511,0.968,67,5.661,0.002,Q1,W,0,2,1,2
+"10668888, 0949877X",vldb journal,7.8,2.769,1.722,91,4.243,0.00248,Q1,W,0,2,1,2
+1569190X,simulation modelling practice and theory,7.5,1.554,1.011,73,4.199,0.00285,Q1,W,0,2,1,2
+"15392791, 15590089",neuroinformatics,7.3,1.341,1.037,60,2.864,0.00292,Q1,W,2,0,1,2
+"15728080, 09295585",design automation for embedded systems,7.2,1.415,0.46,32,1,0.00013,Q3,X,2,0,2,1
+"01972243, 10876537",information society,7.2,1.88,0.995,78,2.522,0.00144,Q1,W,0,2,1,2
+13837621,journal of systems architecture,7.2,1.845,1.283,53,5.836,0.00203,Q1,W,0,2,1,2
+3064379,information systems,7.1,1.903,1,88,3.18,0.00214,Q1,W,0,2,1,2
+1476072X,international journal of health geographics,7.1,1.642,1.047,81,5.31,0.00243,Q1,W,0,2,1,2
+23327790,ieee transactions on big data,6.9,1.791,0.656,10,4.271,0.00191,Q2,X,2,0,2,2
+"18754805, 18754791",international journal of social robotics,6.9,2.355,1.11,57,3.802,0.0027,Q1,W,0,2,1,2
+"01655515, 17416485",journal of information science,6.9,1.631,0.761,69,2.462,0.00188,Q2,W,2,0,1,2
+"24712566, 24712574",acm transactions on privacy and security,6.8,1.986,1.276,17,2.717,0.00063,Q1,W,2,0,1,2
+"09473602, 1432010X",requirements engineering,6.8,2.047,1.063,59,2.275,0.00062,Q1,W,2,0,1,2
+"19367406, 19367414",acm transactions on reconfigurable technology and systems,6.7,1.442,0.884,29,2.837,0.00054,Q1,W,2,0,2,1
+"08852308, 10958363",computer speech and language,6.7,1.667,0.769,72,3.252,0.00224,Q2,W,2,0,1,2
+21693536,ieee access,6.7,1.326,0.927,158,3.476,0.24936,Q1,W,3,3,1,0
+"18685145, 18685137",journal of ambient intelligence and humanized computing,6.5,1.69,0.913,52,3.662,0.00821,Q1,W,2,0,1,2
+"14243210, 14248220",sensors,6.4,1.42,0.803,196,3.847,0.1247,Q2,W,3,3,1,0
+13895753,electronic commerce research,6.3,1.34,0.68,43,3.462,0.00116,Q2,W,2,0,2,1
+8684952,informatica,6.2,0.814,0.607,41,3.429,0.00059,Q2,X,2,0,2,1
+3085961,telecommunications policy,6.2,1.866,1.203,74,4.497,0.00275,Q1,W,0,2,1,2
+9270256,computational materials science,6.1,1.078,0.777,126,3.572,0.02003,Q1,W,0,2,1,2
+15564681,acm transactions on knowledge discovery from data,6,2.008,1.566,60,4.157,0.00239,Q1,W,0,2,1,2
+"21518556, 00188646",ibm journal of research and development,6,1.679,0.712,96,2.605,0.00104,Q2,W,2,0,1,2
+19466226,acm transactions on computing education,5.9,2.156,0.99,37,2.493,0.00069,Q1,W,2,0,1,1
+"15579999, 10638210",ieee transactions on very large scale integration (vlsi) systems,5.9,1.474,0.834,109,2.775,0.00777,Q2,W,0,2,1,2
+"16875281, 16875176",eurasip journal on image and video processing,5.7,1.478,0.651,45,2.399,0.0016,Q2,W,2,0,2,1
+"17580374, 17580366",international journal of bio-inspired computation,5.5,1.033,0.835,40,3.295,0.0009,Q1,W,2,0,2,1
+16179846,information systems and e-business management,5.3,1.211,0.851,40,2.775,0.0009,Q2,W,2,0,2,1
+"07342071, 15577333",acm transactions on computer systems,5.2,1.996,0.801,70,1.692,0.00021,Q1,W,2,0,1,1
+"15737624, 13846175",geoinformatica,5.2,1.337,0.661,58,2.773,0.00071,Q2,W,2,0,2,1
+"20952228, 20952236",frontiers of computer science,5,1.182,0.863,38,2.669,0.00216,Q1,W,2,0,2,1
+"10943420, 17412846",international journal of high performance computing applications,5,1.08,0.482,62,2.82,0.0014,Q3,X,2,0,2,1
+"15730484, 09208542",journal of supercomputing,4.8,1.158,0.727,68,2.557,0.00639,Q2,W,2,0,2,1
+"15554139, 15554120",games and culture,4.7,2.078,0.889,51,2.18,0.00162,Q2,W,2,0,2,1
+3784754,mathematics and computers in simulation,4.7,1.258,0.639,80,3.601,0.00453,Q2,W,2,0,2,1
+18759521,entertainment computing,4.5,1.266,0.46,31,2.072,0.00054,Q3,X,2,0,2,1
+"14320770, 03401200",biological cybernetics,4.4,1.15,0.717,98,3.072,0.00094,Q2,W,2,0,2,1
+10994300,entropy,4.4,1.084,0.553,81,2.738,0.02216,Q2,W,2,0,2,1
+15566056,ieee computer architecture letters,4.4,0.908,0.716,36,2.118,0.00076,Q2,X,2,0,2,1
+"00975397, 10957111",siam journal on computing,4.4,1.921,2.349,116,1.475,0.00508,Q1,W,0,2,1,0
+"10990542, 10613773",computer applications in engineering education,4.2,1.28,0.594,32,2.109,0.00149,Q2,X,2,0,2,1
+"15326969, 10407413",ecological psychology,4.2,1.309,0.594,50,1.688,0.00044,Q2,X,2,0,2,1
+"14332779, 14332787",international journal on software tools for technology transfer,4.2,1.151,0.507,56,1.256,0.00075,Q2,X,2,0,2,1
+"18618200, 18618219",journal of real-time image processing,4.2,1.008,0.523,36,2.293,0.00189,Q2,X,2,0,2,1
+"15443965, 15443558",acm transactions on applied perception,4.1,0.928,0.491,53,1.676,0.00045,Q2,X,2,0,2,3
+"1573501X, 13811991",molecular diversity,4.1,0.79,0.403,58,3.364,0.00174,Q3,X,2,0,2,1
+"18758533, 15705838",applied ontology,4,1.281,0.562,30,1.367,0.00018,Q2,X,2,0,2,3
+1381298X,computational and mathematical organization theory,4,1.344,0.537,28,1.902,0.00037,Q2,X,2,0,2,3
+"17837677, 17838738",journal on multimodal user interfaces,4,1.145,0.426,28,1.694,0.00059,Q3,X,2,0,2,3
+"15574644, 03625915",acm transactions on database systems,3.9,1.471,1.117,83,1.629,0.00127,Q1,W,2,0,2,1
+"16875273, 16875265",computational intelligence and neuroscience,3.9,1.559,0.863,61,3.12,0.00472,Q1,W,2,0,2,1
+1419382,displays,3.9,1.319,0.393,59,3.074,0.00078,Q3,X,2,0,2,1
+8857458,international journal of parallel programming,3.9,0.811,0.499,36,1.447,0.0006,Q2,X,2,0,2,3
+"1097198X, 23336846",journal of global information technology management,3.9,1.147,0.61,33,3.444,0.00038,Q2,X,2,0,2,1
+7378831,library hi tech,3.9,1.183,0.467,41,1.623,0.00086,Q3,X,2,0,2,3
+19430663,ieee embedded systems letters,3.7,0.795,0.449,28,1.524,0.00039,Q2,X,2,0,2,3
+"08927022, 10290435",molecular simulation,3.7,0.602,0.39,59,2.346,0.00313,Q3,X,2,0,2,3
+"12201766, 1841429X",studies in informatics and control,3.7,0.823,0.507,26,1.826,0.00044,Q2,X,2,0,2,3
+"20503806, 20503814",aslib journal of information management,3.6,1.048,0.535,44,1.935,0.00103,Q2,X,2,0,2,3
+"10762787, 10990526",complexity,3.5,0.766,0.463,66,2.121,0.01143,Q2,W,2,0,2,3
+"15504832, 15504840",acm journal on emerging technologies in computing systems,3.4,0.884,0.53,40,2.013,0.00104,Q2,X,2,0,2,3
+15533077,acm transactions on storage,3.4,0.941,0.451,45,1.229,0.00056,Q3,X,2,0,2,3
+"12256463, 22337326",etri journal,3.4,0.76,0.484,47,1.622,0.00086,Q2,X,2,0,2,3
+"18756891, 18756883",international journal of computational intelligence systems,3.4,0.915,0.492,45,2.259,0.00172,Q2,X,2,0,2,3
+"15720381, 15720373",interaction studies,3.2,0.661,0.337,38,1.512,0.00047,Q3,X,2,0,2,3
+"14602067, 00104620",computer journal,3.1,0.88,0.561,67,1.762,0.00209,Q2,W,2,0,2,3
+"18737951, 09535438",interacting with computers,3.1,1.096,0.373,86,1.623,0.00065,Q3,X,2,0,2,1
+220418,journal of documentation,3.1,1.557,0.632,67,2.034,0.00179,Q2,W,2,0,2,1
+51144,automatika,3,0.738,0.404,24,1.79,0.0005,Q2,X,2,0,2,3
+"15338010, 10638016",journal of database management,3,1.138,0.587,34,2.656,0.00017,Q2,X,2,0,2,3
+25149288,data technologies and applications,2.9,0.806,0.332,29,1.713,0.00023,Q3,X,2,0,2,3
+1635808,sigmod record,2.9,0.966,0.913,144,1.432,0.0006,Q1,W,2,0,2,2
+"16876172, 16876180",eurasip journal on advances in signal processing,2.8,0.925,0.489,90,1.759,0.0015,Q3,X,2,0,2,1
+"15728102, 09259856",formal methods in system design,2.8,1.274,0.502,54,1.1,0.00059,Q3,X,2,0,2,3
+"08887985, 15587959",journal of information systems,2.8,1.112,1.183,36,2.308,0.00115,Q1,W,2,0,2,1
+"0948695X, 09486968",journal of universal computer science,2.7,0.717,0.39,54,1.056,0.00062,Q2,X,2,0,2,3
+"23754699, 23754702",acm transactions on asian and low-resource language information processing,2.6,1.158,0.457,15,1.471,0.00052,Q2,X,2,0,2,3
+"15293785, 1557945X",acm transactions on computational logic,2.6,0.987,0.755,49,0.898,0.00068,Q1,X,2,0,2,3
+10043756,journal of systems science and systems engineering,2.6,0.583,0.338,30,1.265,0.00041,Q3,X,2,0,2,3
+"18447600, 15827445",advances in electrical and computer engineering,2.5,0.545,0.281,25,0.825,0.00027,Q3,X,2,0,2,3
+"09251030, 15731979",analog integrated circuits and signal processing,2.5,0.723,0.307,51,1.321,0.0015,Q3,X,2,0,2,3
+"09268782, 15737578",distributed and parallel databases,2.4,0.644,0.357,43,0.974,0.00028,Q3,X,2,0,2,3
+23765992,peerj computer science,2.2,1.304,0.612,28,2.411,0.00436,Q2,W,2,0,2,3
+"18787401, 09287329",technology and health care,2.2,0.537,0.243,48,1.205,0.00166,Q4,X,2,0,2,3
+15480992,ieee latin america transactions,2.1,0.505,0.33,29,0.967,0.00184,Q3,X,2,0,2,3
+"1751861X, 17518601",iet computers and digital techniques,2.1,0.756,0.304,46,0.906,0.00031,Q3,X,2,0,2,3
+3043975,theoretical computer science,2.1,1.056,0.621,119,1.002,0.00924,Q2,W,2,0,2,1
+"13000632, 13036203",turkish journal of electrical engineering and computer sciences,2.1,0.532,0.296,35,0.853,0.002,Q3,X,2,0,2,3
+18605974,logical methods in computer science,2,1.024,0.696,38,0.591,0.00194,Q2,X,2,0,2,3
+"24061018, 18200214",computer science and information systems,1.9,0.562,0.35,26,1.17,0.00023,Q3,X,2,0,2,3
+2676192,computer systems science and engineering,1.9,0.827,0.316,27,4.397,0.0004,Q3,X,2,0,2,1
+"15483924, 15483932",international journal of data warehousing and mining,1.9,0.71,0.291,23,1.333,9.00E-05,Q4,Y,2,0,2,3
+"07309295, 21635226",information technology and libraries,1.8,1.27,0.548,37,1.685,0.00037,Q2,X,2,0,2,3
+"15487199, 15487202",international journal of unconventional computing,1.8,0.322,0.258,19,0.973,0.00016,Q3,Y,2,0,2,3
+14548658,control engineering and applied informatics,1.7,0.562,0.251,19,1.299,0.00019,Q3,Y,2,0,2,3
+"0955792X, 1465363X",journal of logic and computation,1.6,0.886,0.522,54,0.509,0.00139,Q2,X,2,0,2,3
+14538245,romanian journal of information science and technology,1.6,0.47,0.267,18,0.852,0.0001,Q3,Y,2,0,2,3
+"09272852, 15729095",applied categorical structures,1.3,1.159,0.628,29,0.713,0.0013,Q2,X,2,0,2,3
+"17485681, 17485673",international journal of data mining and bioinformatics,1.2,0.176,0.197,23,0.339,0.00022,Q4,Y,2,0,2,3
+"15575977, 15575969",journal of cellular automata,1.2,0.495,0.197,15,0.378,9.00E-05,Q4,Y,2,0,2,3
+1279084,malaysian journal of computer science,1.2,0.3,0.204,20,0.436,0.00011,Q4,Y,2,0,2,3
+1033786,transinformacao,1.2,0.505,0.295,9,0.604,0.00032,Q3,Y,2,0,2,3
+"14627264, 13658050",discrete mathematics and theoretical computer science,1.1,0.767,0.493,23,0.802,0.00124,Q2,X,2,0,2,3
+10586180,ieee annals of the history of computing,0.7,0.739,0.26,25,0.641,0.00029,Q3,X,2,0,2,3
+10535888,ieee signal processing magazine,21.5,5.339,4.703,191,15.204,0.01295,Q1,W,1,1,0,0
+13675788,annual reviews in control,15.5,4.454,3.742,86,10.699,0.00571,Q1,W,1,1,3,0
+"18672949, 18672957",mathematical programming computation,13,5.374,3.172,36,8.059,0.00276,Q1,W,1,1,3,0
+985589,ieee transactions on software engineering,11.4,3.355,2.027,173,9.322,0.00511,Q1,W,1,1,3,0
+"19410476, 1053587X",ieee transactions on signal processing,10.5,2.109,2.682,275,4.875,0.03705,Q1,W,0,1,3,0
+15487660,journal of statistical software,9.6,4.018,2.852,155,6.992,0.03326,Q1,W,1,1,3,0
+"18735339, 09659978",advances in engineering software,9.3,1.764,0.92,86,4.255,0.00785,Q2,W,0,2,1,2
+"13823256, 15737616",empirical software engineering,8.2,2.458,1.89,79,3.762,0.00487,Q1,W,0,2,1,2
+"14364646, 00255610",mathematical programming,7,2.522,2.794,129,3.06,0.01578,Q1,W,0,2,1,0
+"17468094, 17468108",biomedical signal processing and control,6.9,1.855,1.211,84,5.076,0.00872,Q1,W,0,2,1,2
+"15577392, 1049331X",acm transactions on software engineering and methodology,6.7,2.472,1.7,80,3.685,0.00089,Q1,W,0,2,1,2
+"10709908, 15582361",ieee signal processing letters,6.6,1.38,1.361,145,3.201,0.01878,Q1,W,0,2,1,2
+"09641726, 1361665X",smart materials and structures,6.6,1.114,0.89,161,4.131,0.01763,Q2,W,0,2,1,2
+"14327643, 14337479",soft computing,6.3,1.379,0.879,90,3.732,0.01909,Q2,W,0,2,1,2
+7407459,ieee software,6.1,1.897,1.115,116,3,0.0031,Q1,W,0,2,1,2
+"16191374, 16191366",software and systems modeling,6,1.744,0.833,52,2.211,0.00137,Q2,W,2,0,2,1
+"09288910, 15737535",automated software engineering,5.2,1.401,0.943,47,1.677,0.00059,Q2,W,2,0,2,1
+"17477778, 17477786",journal of simulation,5.1,1.217,0.866,26,2.543,0.00079,Q2,X,2,0,2,1
+"08906327, 10991115",international journal of adaptive control and signal processing,5,0.916,0.728,69,3.369,0.00276,Q2,W,2,0,2,1
+"10526234, 10957189",siam journal on optimization,4.9,2.209,3.02,130,2.763,0.01451,Q1,W,0,2,1,0
+"09639314, 15731367",software quality journal,4.8,1.19,0.618,45,1.813,0.00095,Q2,X,2,0,2,1
+"15577295, 00983500",acm transactions on mathematical software,4.4,1.897,0.657,86,2.464,0.00216,Q2,W,2,0,1,1
+"17519675, 17519683",iet signal processing,4.4,0.759,0.434,44,1.819,0.00189,Q3,X,2,0,2,3
+18761364,journal of ambient intelligence and smart environments,4.3,0.837,0.612,33,2.759,0.00048,Q2,X,2,0,2,1
+13894420,optimization and engineering,3.9,1.432,0.634,43,2.619,0.00197,Q2,W,2,0,2,1
+1640925,acm transactions on programming languages and systems,3.7,1.488,1.026,70,1.714,0.0006,Q2,W,2,0,2,1
+15700755,quantum information processing,3.6,0.805,0.463,60,1.965,0.00661,Q3,X,2,0,2,3
+"09345043, 1433299X",formal aspects of computing,2.6,1.191,0.508,42,0.886,0.00048,Q3,X,2,0,2,3
+"16083261, 03617688",programming and computer software,1.9,1.096,0.367,20,0.801,0.00027,Q3,X,2,0,2,3
+"14325217, 14322994",mathematical methods of operations research,1.8,0.862,0.573,49,1.337,0.00146,Q3,X,2,0,2,3
+1676377,operations research letters,1.8,0.974,0.718,77,1.151,0.0037,Q2,W,2,0,2,3
+15423980,journal of multiple-valued logic and soft computing,1.5,0.499,0.234,25,0.78,0.00034,Q4,Y,2,0,2,3
+"14697653, 09567968",journal of functional programming,1.1,1.131,1.352,52,1.543,0.00108,Q1,W,2,0,2,1
